@@ -1,0 +1,39 @@
+# Node
+node_modules/
+node_output.log
+npm-debug.log
+
+#Bower
+bower_components/
+
+# Linux
+*.swp
+*.swo
+
+# Mac
+.DS_Store
+Icon
+._*
+.Spotlight-V100
+
+# SublimeText
+/*.sublime-project
+*.sublime-workspace
+*.sublime-project
+
+# IntelliJ
+.idea/*
+nulam.iml
+
+# LaTeX build files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.lof
+
+# Python Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
